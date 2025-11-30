@@ -12,9 +12,9 @@ const Home = () =>{
                     <Typewriter
                         words={[
                         "Olá, eu sou Emilio",
-                        "Sou Desenvolvedor Full Stack",
+                        "Sou desenvolvedor Full Stack",
                         "Bem-vindo(a) ao meu portfólio!",
-                        "<> :D </> "
+                        "</> "
                         ]}
                         loop={0} 
                         cursor
