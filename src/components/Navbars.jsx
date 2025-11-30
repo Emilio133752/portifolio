@@ -6,12 +6,12 @@ import './Navbar.css'
 const Navbars = () =>{
     return(
     <>
-        <Navbar expand="lg" className="vBackGrondColor">
+        <Navbar expand="lg" className="vBackGrondColor customNavBar">
         <Container>
             <Navbar.Brand href="#home" className='vColors'>Emilio Dev</Navbar.Brand>
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse id="basic-navbar-nav">
-            <Nav className="ms-auto">
+            <Nav className="ms-auto d-flex gap-4">
                 <Nav.Link href="#home" className='vColors'>Home</Nav.Link>
                 <Nav.Link href="#link" className='vColors'>Skills</Nav.Link>
                 <Nav.Link href="#link" className='vColors'>Projects</Nav.Link>

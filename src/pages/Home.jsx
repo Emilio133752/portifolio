@@ -6,7 +6,7 @@ const Home = () =>{
         <>  
             <Navbars />
             <Container>
-                <>ESOTU NO CNTETN</>
+                
             </Container>
         </>
     )

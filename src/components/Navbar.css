@@ -1,7 +1,11 @@
 
 .vBackGrondColor{
     background: #1A0B2E;
-    height: 100px;
+}
+
+.customNavBar{
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
 
 .vColors{
